@@ -76,17 +76,12 @@ Perform facial verification on new images
 Key Features
 
 One-shot facial verification
-
 Custom L1 distance layer
-
 Webcam-based data collection
-
 Robust augmentation pipeline
-
 Deployment-ready inference logic
 
 Technologies Used
-
 Python
 TensorFlow
 OpenCV
